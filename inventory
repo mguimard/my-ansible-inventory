@@ -1,5 +1,6 @@
 [machines_debian]
 machine1 ansible_ssh_host=192.168.56.11
+machine3 ansible_ssh_host=192.168.56.13
 
 [machines_centos]
 machine2 ansible_ssh_host=192.168.56.12
